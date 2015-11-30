@@ -1,6 +1,6 @@
 package graph;
 
-public class E2 {
+public class Demo {
 
     /**
      * Creates and prints the Graph in the handout. Demonstrates
