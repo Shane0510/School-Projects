@@ -1,10 +1,7 @@
 package graph;
 
-<<<<<<< HEAD:Graph Structure/src/graph/E2.java
-public class Test {
-=======
+
 public class Demo {
->>>>>>> origin/UofT-CS:Graph Structure/src/graph/Demo.java
 
     /**
      * Creates and prints the Graph in the handout. Demonstrates
